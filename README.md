@@ -1,0 +1,4 @@
+- 👋 Hi, Ich bin CrafterLP_2K7
+- 👀 Ich bin 14 Jahre alt
+- 📫 Und wohne in Hessen
+- 🌱 Ich programmiere gerne :D
