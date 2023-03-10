@@ -13,11 +13,11 @@
   
   
 
-  <a href="https://twitter.com/Http_polo">Twitter</a>
+  
 
-    <a href="https://discord.com/channels/@me/814861093695651878">Discord</a>
+    
 
-    <a href="https://github.com/CrafterLP_2K7?tab=repositories">Repositories</a>
+    
     
   <br />
     <div align="center">
