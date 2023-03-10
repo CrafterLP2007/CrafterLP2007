@@ -2,17 +2,17 @@
 <br />
 <p align="center">
 
-  <h3 align="center">HttpMarco</h3>
+  <h3 align="center">CrafterLP_2K7</h3>
 
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=HttpMarco&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+  
 
 
   <p align="center">
-    A german developer and founder of @PoloCloud
+    A german developer
     <br />
-  <a href="https://twitter.com/Http_polo">Twitter</a>
+  
     <a href="https://discord.com/channels/@me/814861093695651878">Discord</a>
-    <a href="https://github.com/HttpMarco?tab=repositories">Repositories</a>
+    
   <br />
     <div align="center">
   <img align="center" alt="Intellij" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" />
