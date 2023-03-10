@@ -45,7 +45,7 @@
 
 [discord-shield]: https://img.shields.io/badge/-Discord-black.svg?style=for-the-badge&logo=discord&colorB=555
 
-[discord-url]: discord.zonecraft.eu
+[discord-url]: https://discord.zonecraft.eu
 
 
 
@@ -53,6 +53,6 @@
 
 [spotify-shield]: https://img.shields.io/badge/-Spotify-black.svg?style=for-the-badge&logo=spotify&colorB=555
 
-[spotify-url]: https://open.spotify.com/user/coeqj1w4x4wf1xfekndxd57pt
+
 
 
