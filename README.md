@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crafterlp2007" alt="crafterlp2007" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/crafterlp_2k7" target="blank"><img src="https://img.shields.io/twitter/follow/crafterlp_2k7?logo=twitter&style=for-the-badge" alt="crafterlp_2k7" /></a> </p>
-
 - 🌱 I’m currently learning **HoW tO cEnTeR a DiV**
 
 - 👨‍💻 All of my projects are available at [crafterlp.de](crafterlp.de)
