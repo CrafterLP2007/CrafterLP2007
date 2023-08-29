@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crafterlp2007&label=Profile%20views&color=0e75b6&style=flat" alt="crafterlp2007" /> </p>
 
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crafterlp2007&show_icons=true&locale=en" alt="crafterlp2007" /></p>
+<br>
 
 - 🌱 I’m currently learning **HoW tO cEnTeR a DiV**
 
