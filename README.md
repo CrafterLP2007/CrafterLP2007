@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HoW tO cEnTeR a DiV**
 
-- 👨‍💻 All of my projects are available at [crafterlp.de](https://crafterlp.de)
+- 👨‍💻 All of my projects are available at [crafterlp.de](https://crafterlp.de) (currently offline)
 
 - 📫 How to reach me **crafterlp2007@gmail.com**
 
