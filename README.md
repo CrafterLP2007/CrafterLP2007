@@ -14,7 +14,7 @@
 
 <br>
 
-<h1 align="left">💻 Skills</h1>
+<h2 align="left">💻 Skills</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -48,7 +48,7 @@
 
 <br>
 
-<h1 align="left">🌐 Socials</h1>
+<h2 align="left">🌐 Socials</h2>
 
 <div align="center">
   <a href="https://discord.gg/DgctyFUbdJ" target="_blank">
